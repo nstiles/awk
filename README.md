@@ -1,12 +1,15 @@
 # awk
  awk programming language book tutorial
  
-- This is just me running through the exercises in *The AWK Programming Language* 
+This is simply me running through the exercises in *The AWK Programming Language* 
 
 Written by: 
 > Alfred V. Aho
+
 > Brian W. Kernighan
-> and 
+
+> and
+ 
 > Peter J. Weinberger
 
 
