@@ -19,7 +19,7 @@ Print out the employee names that had zero hours
  
  ```sh 
 awk '$3 == 0 { print $1 }' emp.data
-```
 
-  Beth
-  Dan
+Beth
+Dan
+```
